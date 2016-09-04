@@ -1,0 +1,24 @@
+{
+  "name": "monit",
+  "version": "1.0.0",
+  "description": "Shell out commands as JSON",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ash Isaac <ash@aisaac.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/codelusion/monit.git"
+  },
+  "keywords": [
+    "shell",
+    "JSON"
+  ],
+  "bugs": {
+    "url": "https://github.com/codelusion/monit/issues"
+  },
+  "homepage": "https://github.com/codelusion/monit#readme"
+}
